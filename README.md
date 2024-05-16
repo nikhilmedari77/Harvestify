@@ -18,11 +18,15 @@ Run Apache web server using XAMPP.
 Python
 
 Flask
+
 DL
+
 ML
-Pandas
+
 NumPy
+
 JavaScript
+
 HTML/CSS
-Bootstrap4
+
 Scikit-learn
