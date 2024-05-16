@@ -16,6 +16,7 @@ Run Apache web server using XAMPP.
 
 ## Technologies Used
 Python
+
 Flask
 DL
 ML
